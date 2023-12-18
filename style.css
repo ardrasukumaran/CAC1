@@ -1,0 +1,19 @@
+.head{
+
+    top: 0px;
+    color: #d13737;
+    font-family:cursive;
+    font-size: 20px;
+    height: 70px;
+}
+
+.pos{
+    position: absolute;
+    top: 20px;
+
+}
+
+.bg{
+    position: relative;
+    background-image: url(bg.jpg);
+}
